@@ -4,6 +4,6 @@ Thou hast found my codes of creation, which include my creative thoughts, imagin
 
 <div align="center">
   
-![Cheers!]((https://media.giphy.com/media/u4CY9BW4umAfu/giphy.gif)https://media.giphy.com/media/u4CY9BW4umAfu/giphy.gif)
+![Cheers!](https://media.giphy.com/media/u4CY9BW4umAfu/giphy.gif)
 
 </div>
